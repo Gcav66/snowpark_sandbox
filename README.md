@@ -1,2 +1,2 @@
-#Snowpark Python Sandbox
-###Testing out Snowpark Examples
+# Snowpark Python Sandbox
+### Testing out Snowpark Examples
